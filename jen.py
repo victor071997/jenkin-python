@@ -23,4 +23,4 @@ result = 2*(3+4)**2/5-6
 print(result)
 #it will work on BODMAS rule
 #(BODMAS) (brackets, order of powers or roots, division, multiplication, addition, substraction)
-print"hello world")
+print("hello world")
