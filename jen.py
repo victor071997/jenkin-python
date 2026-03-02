@@ -1,7 +1,7 @@
 #1
 print (10*2)
 print(10%2)
-#print("helloworld")
+print("helloworld")
 #2
 length_of_rect=10
 length_of_circle=2
